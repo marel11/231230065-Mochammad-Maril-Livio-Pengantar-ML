@@ -1,8 +1,6 @@
-
 # Pengantar Machine Learning
 
 ## Identitas Mahasiswa
-
 - **Nama:** Mochammad Maril Livio
 - **NIM:** 231230065
 - **Kelas:** 05 A
@@ -10,48 +8,38 @@
 
 ## Deskripsi Repository
 
-Repository ini dibuat untuk menyimpan tugas,
-latihan, dan proyek selama mengikuti mata kuliah
-Pengantar Machine Learning.
-
-Melalui repository ini, saya mempelajari penggunaan
-Python, Google Colab, dan GitHub sebagai lingkungan
-pengembangan dalam pembelajaran Machine Learning.
+Repository ini saya buat untuk menyimpan tugas-tugas mata kuliah Pengantar Machine Learning. Di sini saya belajar menggunakan Python, Google Colab, dan GitHub.
 
 ## Daftar Tugas
 
 ### Minggu 3 - Setup Environment dan Hello World
 
-Pada tugas minggu ketiga, saya mempelajari:
+Pada tugas ini, saya belajar membuat repository GitHub dan menjalankan program Python sederhana di Google Colab.
 
-1. Membuat repository publik di GitHub.
-2. Menggunakan Google Colab untuk pemrograman Python.
-3. Membuat program sederhana Hello World.
-4. Menjalankan kode Python di Google Colab.
-5. Menghubungkan Google Colab dengan GitHub.
+Langkah-langkah yang saya lakukan:
 
-### Hasil Program
+1. Membuat repository baru di GitHub.
+2. Membuat notebook di Google Colab.
+3. Menulis kode Python Hello World.
+4. Menjalankan program untuk menampilkan nama dan NIM.
+5. Menyimpan notebook Google Colab ke GitHub.
 
-```python
-print("Hello, World!")
-print("Selamat datang di Mata Kuliah Pengantar Machine Learning!")
-print("Nama: Mochammad Maril Livio")
-print("NIM: 231230065")
-```
+## Hasil Program
 
-### Notebook Google Colab
+Program yang saya jalankan menampilkan:
 
-[Buka Tugas Minggu 3 - Hello World](https://colab.research.google.com/github/marel11/231230065-Mochammad-Maril-Livio-Pengantar-ML/blob/main/Tugas_Minggu_3_Hello_World.ipynb)
+Hello, World!
 
-## Tools yang Digunakan
+Selamat datang di Mata Kuliah Pengantar Machine Learning!
 
-- Python
-- Google Colab
-- GitHub
+Nama: Mochammad Maril Livio
+
+NIM: 231230065
+
+## Link Tugas
+
+[Tugas Minggu 3 - Hello World](https://colab.research.google.com/github/marel11/231230065-Mochammad-Maril-Livio-Pengantar-ML/blob/main/Tugas_Minggu_3_Hello_World.ipynb)
 
 ## Kesimpulan
 
-Melalui tugas ini, saya berhasil mempelajari dasar
-penggunaan Google Colab untuk menjalankan program
-Python serta GitHub untuk menyimpan dan
-mendokumentasikan hasil pemrograman.
+Dari tugas ini, saya belajar cara menggunakan Google Colab untuk menjalankan kode Python dan menggunakan GitHub untuk menyimpan hasil tugas. Saya juga jadi lebih paham cara membuat program sederhana menggunakan Python.
