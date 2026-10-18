@@ -5,7 +5,7 @@
 
 - **Nama:** Mochammad Maril Livio
 - **NIM:** 231230065
-- **Kelas:** [Isi Kelas]
+- **Kelas:** 05 A
 - **Mata Kuliah:** Pengantar Machine Learning
 
 ## Deskripsi Repository
